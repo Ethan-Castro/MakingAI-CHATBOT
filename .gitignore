@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+export OPENAI_KEY='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'
+OPENAI_KEY='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'
